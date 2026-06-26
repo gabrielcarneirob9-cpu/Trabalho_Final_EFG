@@ -1,8 +1,8 @@
 #=============Cabeçalho==================
-#=Professor: Rodrigo Medeiros Vilela =
-#=Aluno: Gabriel Carneiro Barros =
-#=Componente: Python Básico =
-#=Dados: 26/06/2026 =
+#==Professor: Rodrigo Medeiros Vilela ==
+#==Aluno: Gabriel Carneiro Barros ==
+#==Componente: Python Básico ==
+#==Dados: 26/06/2026 ==
 #===========================
 
 
